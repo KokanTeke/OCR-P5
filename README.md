@@ -1,20 +1,15 @@
-# Foosus - Alimentation durable
-Ce dépôt contient les premiers documents relatifs au projet d'évolution des systèmes d'informations de l'entreprise Foosus
+![Logo de Foosus](/images/foosus.png)
+# Foosus - Géoconscient
+Ce dépôt contient les livrables attendus pour le **Projet 5** du parcours d'**Architecte Logiciel** d'**OpenClassrooms**, intitulé _Concevez une nouvelle architecture afin de soutenir le développement de votre entreprise_.
 
 # Contenu du dépôt
-## Artéfacts
-### docx
-Les documents suivants au format DOCX :
-- Déclaration de travail d’architecture
-- Spécification des conditions requises pour l’architecture
-- Contrat d’architecture avec les fonctions de conception et de développement
-- Contrat d’architecture avec les utilisateurs business
-### pdf
-Les documents suivants au format PDF :
-- Déclaration de travail d’architecture
-- Spécification des conditions requises pour l’architecture
-- Contrat d’architecture avec les fonctions de conception et de développement
-- Contrat d’architecture avec les utilisateurs business
+## Artefacts
+Les documents suivants, au format PDF :
+- P5_01_declaration de travail d architecture;
+- P5_02_specification des conditions requises pour l architecture;
+- P5_03_contrat d architecture des utilisateurs business;
+- P5_04_contrat de conception et de developpement de l architecture.
+
 ## Images
-L'ensemble des images présentes dans les documents évoqués ci-dessus.
+Les images présentes dans les documents listés ci-dessus.
 
